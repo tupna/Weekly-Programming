@@ -14,7 +14,7 @@ int main(){
         {
             d = c;
         }
-        else if((a > b &&a < c) ||(a > c &&a < b))
+        if((a > b &&a < c) ||(a > c &&a < b))
         {
             e = a;
         }
